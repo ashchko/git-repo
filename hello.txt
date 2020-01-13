@@ -1,4 +1,0 @@
-print("hello world")
-print("модифик")
-print("модифик2раз")
-150
